@@ -2,6 +2,7 @@ package com.newjob.beans;
 
 //does these works correctly with GitHub Desktop
 
+//commit this to a a test branch
 public class Student {
 
 	String name;
