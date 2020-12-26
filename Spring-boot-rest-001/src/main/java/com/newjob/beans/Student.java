@@ -1,5 +1,6 @@
 package com.newjob.beans;
 
+
 public class Student {
 
 	String name;
