@@ -1,5 +1,6 @@
 package com.newjob.beans;
 
+//does these works correctly with GitHub Desktop
 
 public class Student {
 
